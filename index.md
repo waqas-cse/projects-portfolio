@@ -4,6 +4,20 @@ Welcome to my portfolio of web and mobile applications.
 
 ---
 
+## 📱 Mobile Projects
+
+### 📌 [Pharmacy App](https://github.com/yourusername/pharmacy-app)
+An app to manage prescriptions and inventory.
+
+- **Tech Stack:** React Native, Firebase
+- **Available on:** [Play Store](#)
+
+### 📌 [Delivery Tracker](https://github.com/yourusername/delivery-tracker)
+Live delivery status tracking app.
+
+- **Tech Stack:** React Native, Node.js
+- **Available on:** [App Store](#)
+
 ## 🌐 Web Projects
 
 ### 📌 [Task Manager App](https://github.com/yourusername/task-manager)
@@ -19,17 +33,3 @@ An online store with payment integration.
 - **Live Demo:** [View](https://ecommerce.example.com)
 
 ---
-
-## 📱 Mobile Projects
-
-### 📌 [Pharmacy App](https://github.com/yourusername/pharmacy-app)
-An app to manage prescriptions and inventory.
-
-- **Tech Stack:** React Native, Firebase
-- **Available on:** [Play Store](#)
-
-### 📌 [Delivery Tracker](https://github.com/yourusername/delivery-tracker)
-Live delivery status tracking app.
-
-- **Tech Stack:** React Native, Node.js
-- **Available on:** [App Store](#)
